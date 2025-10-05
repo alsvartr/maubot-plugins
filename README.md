@@ -16,6 +16,6 @@ Follow oficial [manual](https://docs.mau.fi/maubot/index.html) to install maubot
 - [upload](https://docs.mau.fi/maubot/usage/basic.html#uploading-plugins) specific plugin on maubot (get it on 'releases' subfolder)
 - [create](https://docs.mau.fi/maubot/usage/basic.html#creating-clients) client and instance
 
-## [saved](https://alsvartr.github.io/maubot-plugins/saved)
+## [saved](https://github.com/alsvartr/maubot-plugins/tree/main/saved)
 
 Save notes to [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) and use this bot as a "Saved Messages" chat, like in Telegram.
