@@ -1,0 +1,10 @@
+# default nextcloud server URL for all users. If set to 'null' - ask user
+nextcloud_url: null
+# app name for nextcloud app password
+app_name: maubot-saved
+# prefix for a note title
+title_prefix: null
+# notes category (folder)
+categories:
+  - text: matrix
+  - link: matrix-links
